@@ -10,6 +10,7 @@ public partial class MainPage : ContentPage
 	private void Blur(object sender, EventArgs e)
 	{
 		LabelImage.Text = "Blur";
-	}
+		ImageObj.
+    }
 }
 

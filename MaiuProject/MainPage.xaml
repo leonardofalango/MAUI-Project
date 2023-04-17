@@ -7,7 +7,7 @@
         <HorizontalStackLayout>
             <VerticalStackLayout>
                 <Image Source="Resources/Images/image.jpg" WidthRequest="230"
-                       HeightRequest="500"/>
+                       HeightRequest="500" x:Name="ImageObj" />
                 <Label Text="Original" x:Name="LabelImage"></Label>
             </VerticalStackLayout>
             <VerticalStackLayout WidthRequest="120">
